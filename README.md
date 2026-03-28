@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is James B. Laag
 ======================================================================================================================================
 
-Web Designer & Web Developer
+Future Web Designer & Web Developer
 ----------------------------
 
 A simple boy who loves creating things on the web. I enjoy both Web Design and Web Development, turning ideas into websites that are clean, responsive, and user-friendly. I’m always learning, experimenting, and trying to improve a little every day.
