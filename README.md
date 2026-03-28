@@ -1,9 +1,6 @@
-# 💫 About Me<br><br>HELLO, I’m JamLagz28 👋 
-
+# 💫 About Me<br><br>HELLO, I’m JAMES B. LAAG👋 
 ## 
  <br>A simple boy who loves creating things on the web. I enjoy both Web Design and Web Development, turning ideas into websites that are clean, responsive, and user-friendly.  <br><br>I’m always learning, experimenting, and trying to improve a little every day.  <br>Even if it gets tough, I keep going—because building and designing the web is what I love.  <br><br>Let’s create something amazing together! 🌱
-
-
 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/JamLagz28) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jameslaag1228@gmail.com) 
 
