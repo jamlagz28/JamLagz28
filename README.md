@@ -1,4 +1,4 @@
-# 💫 About Me<br><br>HELLO, I’m JAMES B. LAAG👋 
+[# 💫 About Me<br><br>HELLO, I’m JAMES B. LAAG👋 
 ## 
  <br>A simple boy who loves creating things on the web. I enjoy both Web Design and Web Development, turning ideas into websites that are clean, responsive, and user-friendly.  <br><br>I’m always learning, experimenting, and trying to improve a little every day.  <br>Even if it gets tough, I keep going—because building and designing the web is what I love.  <br><br>Let’s create something amazing together! 🌱
 🌐 Socials:
@@ -15,3 +15,4 @@
 [![](https://visitcount.itsvg.in/api?id=jamlagz28&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+](https://lively-gelato-1f8668.netlify.app/)
