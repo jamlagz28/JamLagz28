@@ -1,6 +1,4 @@
 # 💫 About Me
-
-```diff
 + IDENTITY: JamLagz28.exe
 + STATUS: ONLINE 🟢
 + MODE: Kapoy pero padayun ra gihapon
