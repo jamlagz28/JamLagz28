@@ -1,5 +1,20 @@
-# 💫 About Me:
-# ⚡ ACCESSING SYSTEM...<br><br>```diff<br>+ IDENTITY: JamLagz28.exe<br>+ STATUS: ONLINE 🟢<br>+ MODE: CYBERPUNK DEV<br>+ ROLE: Web Developer × Web Designer<br>+ LOCATION: Manolo Fortich, Bukidnon, Philippines 8703
+<!-- ⚡ NEON HACKER WEB DEVELOPER & DESIGNER PROFILE -->
+
+<h1 align="center">
+  <span style="color:#00ffcc;">⚡ SYSTEM BOOTING... ⚡</span>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=00FFCC&center=true&vCenter=true&width=700&lines=ACCESS+GRANTED;WELCOME+TO+MY+PROFILE;I+AM+YOUR_NAME;WEB+DEVELOPER+%E2%9C%95+WEB+DESIGNER;BUILDING+THE+WEB+FROM+SCRATCH" />
+</p>
+
+---
+
+```diff
++ IDENTITY: YOUR_NAME.exe
++ ROLE: Web Developer × Web Designer
++ STATUS: ONLINE 🟢
++ LOCATION: Philippines
 
 
 ## 🌐 Socials:
