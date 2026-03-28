@@ -2,7 +2,7 @@
 + IDENTITY: JamLagz28.exe
 + STATUS: ONLINE 🟢
 + MODE: Kapoy pero padayun ra gihapon
-+ ROLE: Web Developer × Web Designer
++ ROLE: Future Web Developer × Web Designer
 + LOCATION: Manolo Fortich, Bukidnon, Philippines 8703
 
 
