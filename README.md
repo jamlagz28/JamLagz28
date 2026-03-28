@@ -1,5 +1,11 @@
-# 💫 About Me:
-# ⚡ ACCESSING SYSTEM...<br><br>```diff<br>+ IDENTITY: JamLagz28.exe<br>+ STATUS: ONLINE 🟢<br>+ MODE: CYBERPUNK DEV<br>+ ROLE: Web Developer × Web Designer<br>+ LOCATION: Manolo Fortich, Bukidnon, Philippines 8703
+# 💫 About Me
+
+```diff
++ IDENTITY: JamLagz28.exe
++ STATUS: ONLINE 🟢
++ MODE: Kapoy pero padayun ra gihapon
++ ROLE: Web Developer × Web Designer
++ LOCATION: Manolo Fortich, Bukidnon, Philippines 8703
 
 
 ## 🌐 Socials:
